@@ -16,11 +16,11 @@ namespace ConsoleApplication
             do
             {
 
-                // Input Customer Name
+                // Input Customer Name nischal
                 Console.Write("Enter Customer Name: ");
                 string customerName = Console.ReadLine();
 
-                // Input Number Of Coffee Bags
+                // Input Number Of Coffee Bags 
                 Console.Write("Enter Number Of Coffee Bags (1-200): ");
                 int numCoffeeBags = Int32.Parse(Console.ReadLine());
 
@@ -43,7 +43,7 @@ namespace ConsoleApplication
                 }
 
 
-                // Compute Bill
+                // Compute Bill for me
 
                 // Compute Bag Cost
                 double totalCost = 0.0;
